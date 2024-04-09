@@ -106,7 +106,7 @@ mv dada_table.qza table.qza
 ### Now I load into R:
 -rooted-tree.qza
 
--metadata_mod.tsv
+-metadata_mod.tsv (this metadata is available under reasonable request)
 
 -table.qza
 
